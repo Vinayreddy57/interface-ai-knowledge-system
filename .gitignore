@@ -1,0 +1,12 @@
+# Confidential assignment snapshot content - NEVER COMMIT
+snapshots_zip/
+snapshots/*/
+!snapshots/README.md
+*.zip
+*.env
+.env*
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+*.log
